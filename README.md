@@ -1,5 +1,6 @@
 # Web-Traffic-Anomaly-Detection-using-C-LSTM-Neural-Network
-Performed Anomaly Detection for web traffic using C-LSTM which is a combination of CNN to reduce frequency variation in spatial information, LSTM for modeling time information, DNN to map data into more separable space.
+Designed and trained a Long Short-Term Memory (LSTM) autoencoder using the Keras API with TensorFlow 2 as the backend to detect anomalies (sudden price changes) in the S&P 500 index.
+Created interactive charts and plots using Plotly and Seaborn for data visualization and displayed results in Jupyter notebooks.
 
 
 ## Introduction
@@ -11,6 +12,6 @@ detection quickly and accurately for the efficient operation of complex computer
 
 ## Architecture 
 
-<img width="726" alt="Screen Shot 2022-11-03 at 8 22 46 AM" src="https://user-images.githubusercontent.com/68578215/199762208-60d65851-0696-4f18-ae24-fe61a6894534.png">
+
 
 **Dataset Link -** https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70
