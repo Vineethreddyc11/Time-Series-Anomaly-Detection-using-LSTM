@@ -14,5 +14,4 @@ Time series analysis is a branch of statistics that involves reasoning about ord
 
 
 
-**Dataset Link -** [https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70
-](https://www.macrotrends.net/2526/sp-500-historical-annual-returns)
+**Dataset Link -** https://finance.yahoo.com/quote/JNJ/history/
